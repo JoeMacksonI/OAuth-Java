@@ -1,6 +1,6 @@
 # OAuth-Java
 
-Connecting with OAuth 2 using Github Authorization
+Connecting with Github API to fetch user details using OAuth 2 Github Authorization
 
 Reference:
 https://docs.github.com/en/rest/reference
